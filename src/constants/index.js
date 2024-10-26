@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 months of hands-on experience, I have honed my skills in front-end technologies like React and Vue.js, as well as back-end technologies like Node.js,PHP, MySQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = "As a dedicated full stack developer, I specialize in building dynamic and scalable web applications. With 5 months of immersive experience, I've developed proficiency in front-end frameworks such as React and Vue.js, alongside back-end technologies like Node.js, PHP, MySQL, and MongoDB. My objective is to apply my skills to deliver innovative solutions that enhance user engagement and drive business success.";
 
-export const ABOUT_TEXT = `I am a software developer with a background in civil engineering and a strong passion for full-stack development. During a recent 5-month internship, I gained hands-on experience with PHP, Vue.js (Vue 2), and MySQL, contributing to live projects and building my skills in both front-end and back-end development. My GitHub portfolio includes projects in Java, JavaScript, and Express, reflecting my commitment to mastering the full stack. As the saying goes, "If you do a job that you love, you'll never have to work a day in your life." This fuels my dedication and ambition to excel as a Full Stack Developer.`;
+export const ABOUT_TEXT = "I am a software developer who transitioned from civil engineering to full-stack development, fueled by a passion for creating impactful software solutions. Through a recent 5-month internship, I gained substantial experience with PHP, Vue.js (Vue 2), and MySQL, actively contributing to live projects that strengthened my front-end and back-end capabilities. My GitHub portfolio showcases a variety of projects developed in Java, JavaScript, and Express, reflecting my commitment to continuous growth in this field. I truly believe in the saying, 'If you do a job that you love, you'll never have to work a day in your life,' and this belief drives my ambition to excel as a Full Stack Developer.";
 
 export const EXPERIENCES = [
   {
@@ -65,5 +65,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Vilayil house,Thannithodu P.O,Pathanamthitta,Kerala,689699",
   phoneNo: "+9496425906",
-  email: "akshaysasikumar@gmail.com",
+  email: "akshaysasikumar30@gmail.com",
 };

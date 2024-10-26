@@ -16,10 +16,15 @@ const Navbar = () => {
         <h1 className="mx-2 fancy-font">Ask.i</h1>
     </div>
     <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <FaLinkedin/>
-        <FaGithub/>
-        {/* <FaSquareXTwitter/> */}
-        <FaInstagram/>
+        <a href="https://www.linkedin.com/in/akshay-sasikumar-52b3a1245/" target="_blank" rel="noopener noreferrer">
+            <FaLinkedin />
+        </a>
+        <a href="https://github.com/akshaysasikumar30" target="_blank" rel="noopener noreferrer">
+            <FaGithub />
+        </a>
+        <a href="https://www.instagram.com/ask.i__/?next=%2F" target="_blank" rel="noopener noreferrer">
+            <FaInstagram />
+        </a>
     </div>
   </nav>
   </>
